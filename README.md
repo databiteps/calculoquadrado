@@ -1,6 +1,6 @@
 # calculoquadrado 
 
-Meu primeiro codigo desenvolvido em portugol nas aulas de programação, 
+Meu quarto codigo desenvolvido em portugol nas aulas de programação, 
 
 ## Portugol
 >ALGORITMO calculoquadrado \
