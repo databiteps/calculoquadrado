@@ -15,6 +15,6 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 > FIM
 
 ## Fluxograma
-![alt text](https://github.com/databiteps/multiplicacao/blob/main/multiplicacao.drawio.png?raw=true "Title")
+![alt text](https://github.com/databiteps/calculoquadrado/blob/main/NUMEROINTEIROQUADRADO.drawio.png?raw=true"Title")
 
 Exemplo do livro Lógica de Programação - Editora Viena
