@@ -6,7 +6,7 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 >ALGORITMO calculoquadrado \
 >VARIAVEIS \
 > &nbsp;&nbsp;&nbsp;&nbsp;a:REAL \
-> &nbsp;&nbsp;&nbsp;&nbsp;b:REAL\
+> &nbsp;&nbsp;&nbsp;&nbsp;b:REAL \
 
 > INICIO \
 > &nbsp;&nbsp;&nbsp;&nbsp;LEIA a\
