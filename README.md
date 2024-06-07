@@ -7,7 +7,6 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 >VARIAVEIS \
 > &nbsp;&nbsp;&nbsp;&nbsp;a:REAL \
 > &nbsp;&nbsp;&nbsp;&nbsp;b:REAL \
-
 > INICIO \
 > &nbsp;&nbsp;&nbsp;&nbsp;LEIA a \
 > &nbsp;&nbsp;&nbsp;&nbsp;b ← a x a \
