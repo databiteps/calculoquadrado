@@ -9,7 +9,7 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;b:REAL \
 
 > INICIO \
-> &nbsp;&nbsp;&nbsp;&nbsp;LEIA a\
+> &nbsp;&nbsp;&nbsp;&nbsp;LEIA a \
 > &nbsp;&nbsp;&nbsp;&nbsp;b ← a x a \
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA  b \
 > FIM
